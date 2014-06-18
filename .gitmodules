@@ -4,3 +4,21 @@
 [submodule "bundle/Vundle.vim"]
 	path = bundle/Vundle.vim
 	url = git://github.com/gmarik/Vundle.vim.git
+[submodule "bundle/utl.vim"]
+	path = bundle/utl.vim
+	url = git@github.com:vim-scripts/utl.vim.git
+[submodule "bundle/repeat.vim"]
+	path = bundle/repeat.vim
+	url = git@github.com:vim-scripts/repeat.vim.git
+[submodule "bundle/taglist.vim"]
+	path = bundle/taglist.vim
+	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "bundle/speeddating.vim"]
+	path = bundle/speeddating.vim
+	url = git@github.com:vim-scripts/speeddating.vim.git
+[submodule "bundle/calendar.vim"]
+	path = bundle/calendar.vim
+	url = git@github.com:vim-scripts/calendar.vim.git
+[submodule "bundle/SyntaxRange"]
+	path = bundle/SyntaxRange
+	url = git@github.com:vim-scripts/SyntaxRange.git
